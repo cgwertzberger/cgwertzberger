@@ -5,6 +5,7 @@
 #### Business Analytics and Information Systems & Management Major
 #### Tippie College of Business at The University of Iowa
 Feel free to visit my [LinkedIn](https://www.linkedin.com/in/chase-wertzberger-a2b9251a1/).
+I hope you enjoy my Github.
 <!--
 **cgwertzberger/cgwertzberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Chase Wertzberger
+
