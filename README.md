@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+# Chase Wertzberger
+### Business Analytics and Information Systems & Management Major
+### Tippie College of Business at The University of Iowa
+<br>
+### Incoming Merchandising Analyst
+### Kum & Go
+Feel free to visit my [LinkedIn](https://www.linkedin.com/in/chase-wertzberger-a2b9251a1/).
 <!--
 **cgwertzberger/cgwertzberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Chase Wertzberger
