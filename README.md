@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Chase Wertzberger
-### Incoming Merchandising Analyst
-### Kum & Go
+## Incoming Merchandising Analyst
+## Kum & Go
 #### Business Analytics and Information Systems & Management Major
 #### Tippie College of Business at The University of Iowa
 Feel free to visit my [LinkedIn](https://www.linkedin.com/in/chase-wertzberger-a2b9251a1/).
